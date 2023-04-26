@@ -1,0 +1,68 @@
+
+.main{
+	padding: 3vw;
+	padding-top:1vw;
+	padding-bottom: 1vw;
+	position: relative;
+	color:#13595a;
+}
+
+.card{
+	width: 20vw;
+	height: 300px;
+	margin: 2vw;
+	position: relative;
+}
+
+.heading{
+	font-size: 40px;
+	font-weight:bold;
+	margin:0;
+	padding:0;
+}
+.imgText{
+	font-size:20px;
+	font-weight: bold;
+	position: absolute;
+	color:white;
+	z-index: 10;
+	left: 30%;
+	top: 80%;
+}
+
+
+@media(max-width:700px){
+	.card{
+		width: 30vw;
+		height: 30vw;
+		margin: 4vw;
+		position: relative;
+	}
+	.imgText{
+		font-size:20px;
+		font-weight: bold;
+		position: absolute;
+		color:white;
+		z-index: 10;
+		left: 30%;
+		top: 50%;
+	}
+}
+
+@media(max-width:700px){
+	.card{
+		width: 45vw;
+		height: 45vw;
+		margin: 4vw;
+		position: relative;
+	}
+	.imgText{
+		font-size:20px;
+		font-weight: bold;
+		position: absolute;
+		color:white;
+		z-index: 10;
+		left: 30%;
+		top: 50%;
+	}
+}
