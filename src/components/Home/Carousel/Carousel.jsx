@@ -26,7 +26,7 @@ const responsive = {
 
   const imgArr = [
 	{ place:"Austin",
-	   img:"https://www.gousa.in/sites/default/files/styles/16_9_770x433/public/images/hero_media_image/2016-12/Austin%20Lake%20Kayaking.jpg?itok=1dm2ydlT"
+	   img:"https://images.unsplash.com/photo-1564507592333-c60657eea523?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGFqJTIwbWFoYWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
      },
 	 { place:"Virgin Islands",
 	   img:"https://www.gousa.in/sites/default/files/styles/16_9_770x433/public/images/hero_media_image/2016-12/USVI.jpg?itok=6e8h20ku"
