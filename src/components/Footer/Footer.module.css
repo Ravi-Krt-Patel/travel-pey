@@ -1,0 +1,47 @@
+
+.main{
+	background-color: #00cccf;
+	display: flex;
+	justify-content: space-around;
+	padding: 5vw;
+	color: #13595a;
+}
+
+.containter{
+	/* display: flex;
+	justify-content: center;
+	align-items: center; */
+}
+
+.heading{
+	font-size:calc(1vw + 10px);
+	font-weight:500;
+}
+
+.icons{
+	display: flex;
+	justify-content:space-around;
+	align-items:center;
+}
+
+.callicon{
+	display: flex;
+	/* flex-direction:column; */
+	justify-content:start;
+	align-items:center;
+	margin-top: 1.5vw;
+}
+
+.bottom{
+	background-color: #00cccf;
+	display: flex;
+	justify-content: space-around;
+	color: #13595a;
+}
+.logo{
+	background-color: #00cccf;
+	/* width:5vw; */
+	cursor: pointer;
+	display: flex;
+	align-items:center;
+}

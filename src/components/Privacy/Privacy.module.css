@@ -1,0 +1,17 @@
+
+.main{
+	display: flex;
+	flex-direction: column;
+	/* justify-content: start;
+	align-items: center; */
+	padding:6vw;
+	padding-top:3vw;
+	padding-bottom: 3vw;
+}
+
+.heading{
+	font-size: 30px;
+	font-weight:bold;
+	margin: 0;
+	padding: 0;
+}
