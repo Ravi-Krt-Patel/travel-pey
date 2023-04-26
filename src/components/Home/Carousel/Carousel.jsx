@@ -25,33 +25,34 @@ const responsive = {
 
 
   const imgArr = [
-	{ place:"Austin",
+	{ place:"Tajmahal",
 	   img:"https://images.unsplash.com/photo-1564507592333-c60657eea523?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGFqJTIwbWFoYWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
      },
-	 { place:"Virgin Islands",
-	   img:"https://www.gousa.in/sites/default/files/styles/16_9_770x433/public/images/hero_media_image/2016-12/USVI.jpg?itok=6e8h20ku"
+	 { place:"burj khalifa",
+	   img:"https://images.unsplash.com/photo-1582120031356-35f21bf61055?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YnVyaiUyMGtoYWxpZmF8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
      },
-	 { place:"California",
-	   img:"https://www.gousa.in/sites/default/files/styles/16_9_770x433/public/images/hero_media_image/2016-12/Palm%20Springs%20Canyon.jpg?itok=zlLMqO_-"
+	 { place:"australia",
+	   img:"https://images.unsplash.com/photo-1624138784614-87fd1b6528f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YXVzdHJhbGlhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
      },
-	 { place:"Austin",
-	   img:"https://www.gousa.in/sites/default/files/styles/16_9_770x433/public/images/hero_media_image/2016-12/Austin%20Lake%20Kayaking.jpg?itok=1dm2ydlT"
+	 { place:"Tajmahal",
+	   img:"https://images.unsplash.com/photo-1564507592333-c60657eea523?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGFqJTIwbWFoYWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
      },
-	 { place:"Virgin Islands",
-	   img:"https://www.gousa.in/sites/default/files/styles/16_9_770x433/public/images/hero_media_image/2016-12/USVI.jpg?itok=6e8h20ku"
+	 { place:"burj khalifa",
+	   img:"https://images.unsplash.com/photo-1582120031356-35f21bf61055?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YnVyaiUyMGtoYWxpZmF8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
      },
-	 { place:"California",
-	   img:"https://www.gousa.in/sites/default/files/styles/16_9_770x433/public/images/hero_media_image/2016-12/Palm%20Springs%20Canyon.jpg?itok=zlLMqO_-"
+	 { place:"australia",
+	   img:"https://images.unsplash.com/photo-1624138784614-87fd1b6528f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YXVzdHJhbGlhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
      },
-	 { place:"Austin",
-	   img:"https://www.gousa.in/sites/default/files/styles/16_9_770x433/public/images/hero_media_image/2016-12/Austin%20Lake%20Kayaking.jpg?itok=1dm2ydlT"
+	 { place:"Tajmahal",
+	   img:"https://images.unsplash.com/photo-1564507592333-c60657eea523?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGFqJTIwbWFoYWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
      },
-	 { place:"Virgin Islands",
-	   img:"https://www.gousa.in/sites/default/files/styles/16_9_770x433/public/images/hero_media_image/2016-12/USVI.jpg?itok=6e8h20ku"
+	 { place:"burj khalifa",
+	   img:"https://images.unsplash.com/photo-1582120031356-35f21bf61055?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YnVyaiUyMGtoYWxpZmF8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
      },
-	 { place:"California",
-	   img:"https://www.gousa.in/sites/default/files/styles/16_9_770x433/public/images/hero_media_image/2016-12/Palm%20Springs%20Canyon.jpg?itok=zlLMqO_-"
+	 { place:"australia",
+	   img:"https://images.unsplash.com/photo-1624138784614-87fd1b6528f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YXVzdHJhbGlhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
      },
+	 
 	 
   ]
 
